@@ -1,3 +1,19 @@
 #letter {
   display: none;
+  border: 2px solid black;
+  padding: 10px;
+  
+}
+
+.signature {
+  text-align: center;
+  font-family: cursive;
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.3em;
+  font-family: cursive;
+  font-style: italic;
+  font-weight: normal;
 }
